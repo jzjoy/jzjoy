@@ -37,12 +37,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jzjoy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jzjoy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jzjoy&theme=tokyonight" alt="Profile Details" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jzjoy&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jzjoy&theme=tokyonight" alt="GitHub Stats" height="180">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jzjoy&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180">
 </p>
 
 ---
