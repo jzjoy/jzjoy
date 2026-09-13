@@ -49,6 +49,16 @@
 
 <br>
 
+<!-- ═══════════════════════════ FEATURED ═══════════════════════════ -->
+## 🚀 Featured Work
+
+| Project | Description | Stack |
+|---|---|---|
+| 🛒 **HighClass Mart** | Full-featured e-commerce platform — product variants, coupons, SSLCommerz payments, order tracking, bilingual storefront & complete admin panel | Laravel 13 · Tailwind · Alpine.js · MySQL |
+| 🌐 **[mrzihad.com](https://mrzihad.com/)** | My portfolio website | Laravel |
+
+<br>
+
 <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
 ## 📊 GitHub Stats
 
